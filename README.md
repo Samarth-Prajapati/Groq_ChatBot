@@ -6,6 +6,12 @@ The application supports multiple Groq-hosted large language models and provides
 
 ---
 
+## Streamlit Deployment
+
+**Link** : https://chatbot-by-sam.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 * Interactive **Streamlit UI**
